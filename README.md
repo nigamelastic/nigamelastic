@@ -2,7 +2,7 @@
 
 ## I am kshitij
 
-- 🔭 I’m currently working on "ESP8266 with ATMEGA328" 
+- 🔭 I’m currently working on "ESP8266 with Atmega328" 
 - 🌱 I’m currently learning "Firmware Hacking"
 - 💬 Ask me anything [here](https://twitter.com/nigamelastic)
 - ⚡ Feel free to check [this](https://kshitijnigam.com) out!
