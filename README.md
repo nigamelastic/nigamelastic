@@ -1,6 +1,6 @@
 ### Hi there 👋 and Welcome  🤘
 
-## I am kshitij
+## I am Kshitij
 
 - 🔭 I’m currently working on "ESP8266 with Atmega328" 
 - 🌱 I’m currently learning "Firmware Hacking"
