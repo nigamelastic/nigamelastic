@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Kshitij's github stats](https://github-readme-stats.vercel.app/api?username=nigamelastic&theme=bear)](https://github.com/nigamelastic?tab=repositories)
